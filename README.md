@@ -68,12 +68,16 @@ const gilang = {
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GilangHap&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img width="90%" src="https://streak-stats.demolab.com/?user=GilangHap&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  </a>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=GilangHap&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=GilangHap&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+  </a>
 </div>
 
 <!-- Featured Projects Section -->
@@ -97,20 +101,35 @@ const gilang = {
   </a>
 </div>
 
-<!-- Trophies Section -->
-## 🏆 GitHub Trophies
+<!-- Achievements Section -->
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=GilangHap&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Pro-00C853?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro"/>
+        <br><b>GitHub Pro</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/37+-Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+        <br><b>Public Repos</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/18+-Followers-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+        <br><b>Followers</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Fullstack-Developer-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Developer"/>
+        <br><b>Developer</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Snake Animation -->
+<!-- Contribution Stats -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://github-contributor-stats.vercel.app/api?username=GilangHap&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributed Repos" />
 </div>
 
 <!-- Quote Section -->
